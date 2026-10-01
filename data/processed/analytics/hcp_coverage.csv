@@ -1,0 +1,501 @@
+hcp_id,territory_id,specialty,hcp_tier,potential_score,total_calls,successful_calls,coverage_flag,coverage_status
+H463,T001,Neurologist,B,100.0,128,72,1,Covered
+H273,T015,Allergist,A,100.0,320,178,1,Covered
+H044,T016,General Physician,A,100.0,212,109,1,Covered
+H235,T011,Allergist,A,100.0,200,107,1,Covered
+H345,T004,Pulmonologist,A,100.0,267,143,1,Covered
+H474,T002,Rheumatologist,B,100.0,0,0,0,Uncovered
+H058,T012,Allergist,A,100.0,190,107,1,Covered
+H024,T010,Neurologist,A,100.0,164,94,1,Covered
+H316,T002,Psychiatrist,A,100.0,187,109,1,Covered
+H295,T003,Orthopedist,A,100.0,185,101,1,Covered
+H251,T010,Pulmonologist,B,100.0,111,67,1,Covered
+H422,T019,Orthopedist,A,100.0,288,134,1,Covered
+H223,T008,General Physician,A,100.0,256,142,1,Covered
+H064,T012,Rheumatologist,A,100.0,204,104,1,Covered
+H266,T011,Allergist,A,100.0,210,122,1,Covered
+H189,T012,Pain Specialist,A,100.0,192,107,1,Covered
+H133,T013,General Physician,A,99.55,207,109,1,Covered
+H351,T002,Orthopedist,B,98.92,113,56,1,Covered
+H458,T013,Pulmonologist,A,98.54,202,99,1,Covered
+H229,T017,Psychiatrist,A,97.93,298,157,1,Covered
+H204,T007,Pulmonologist,B,97.87,0,0,0,Uncovered
+H010,T019,Psychiatrist,A,96.93,245,135,1,Covered
+H366,T016,General Physician,B,96.9,142,70,1,Covered
+H007,T011,Pulmonologist,A,96.53,178,88,1,Covered
+H034,T004,Orthopedist,B,96.49,0,0,0,Uncovered
+H418,T020,Psychiatrist,A,96.27,326,184,1,Covered
+H388,T019,General Physician,A,95.91,283,162,1,Covered
+H196,T017,Pulmonologist,B,95.81,216,118,1,Covered
+H291,T017,Pulmonologist,B,95.06,196,108,1,Covered
+H367,T020,Neurologist,B,94.9,0,0,0,Uncovered
+H136,T014,Psychiatrist,A,94.72,487,234,1,Covered
+H499,T020,Allergist,B,94.08,0,0,0,Uncovered
+H262,T001,Allergist,B,93.93,0,0,0,Uncovered
+H178,T002,Orthopedist,A,93.66,137,73,1,Covered
+H212,T014,Pulmonologist,B,93.11,308,176,1,Covered
+H243,T013,Pulmonologist,B,92.51,0,0,0,Uncovered
+H232,T010,Pulmonologist,B,92.02,102,56,1,Covered
+H265,T006,Pain Specialist,A,91.93,236,129,1,Covered
+H158,T003,General Physician,B,91.83,119,59,1,Covered
+H334,T011,Pain Specialist,B,91.6,126,74,1,Covered
+H199,T002,Orthopedist,B,91.48,0,0,0,Uncovered
+H342,T007,Psychiatrist,A,91.35,211,111,1,Covered
+H096,T010,Pulmonologist,A,90.96,130,78,1,Covered
+H154,T007,General Physician,A,90.8,187,106,1,Covered
+H466,T018,Pulmonologist,B,90.42,120,69,1,Covered
+H279,T010,Psychiatrist,A,90.18,157,88,1,Covered
+H138,T012,Allergist,A,90.04,171,90,1,Covered
+H101,T004,Psychiatrist,C,90.0,108,60,1,Covered
+H278,T010,Rheumatologist,C,90.0,82,51,1,Covered
+H440,T011,General Physician,C,90.0,78,48,1,Covered
+H116,T020,General Physician,C,90.0,0,0,0,Uncovered
+H054,T002,Allergist,C,89.79,0,0,0,Uncovered
+H112,T006,General Physician,A,89.14,215,125,1,Covered
+H238,T020,General Physician,C,88.97,142,81,1,Covered
+H263,T009,Psychiatrist,A,88.84,237,137,1,Covered
+H207,T016,Rheumatologist,C,88.83,93,48,1,Covered
+H482,T003,Neurologist,B,88.72,127,67,1,Covered
+H399,T002,Allergist,A,88.4,152,93,1,Covered
+H167,T002,General Physician,A,87.86,149,81,1,Covered
+H470,T004,Psychiatrist,A,87.71,0,0,0,Uncovered
+H082,T005,Pain Specialist,A,87.54,221,115,1,Covered
+H040,T007,Orthopedist,B,87.46,109,65,1,Covered
+H321,T007,Rheumatologist,C,87.11,86,44,1,Covered
+H374,T008,Allergist,B,87.08,122,67,1,Covered
+H156,T003,Pulmonologist,B,86.94,121,61,1,Covered
+H322,T012,General Physician,B,86.75,130,72,1,Covered
+H217,T019,Pain Specialist,C,86.24,110,52,1,Covered
+H320,T008,Allergist,C,86.11,112,52,1,Covered
+H479,T006,Pulmonologist,A,86.09,0,0,0,Uncovered
+H357,T003,General Physician,A,85.82,146,86,1,Covered
+H444,T018,General Physician,B,85.67,97,56,1,Covered
+H255,T013,Neurologist,A,85.53,172,95,1,Covered
+H484,T016,Pulmonologist,B,85.52,131,77,1,Covered
+H210,T009,Pain Specialist,A,85.39,213,123,1,Covered
+H260,T002,General Physician,A,85.09,147,78,1,Covered
+H242,T014,Psychiatrist,A,84.83,0,0,0,Uncovered
+H095,T018,Pulmonologist,B,84.64,122,66,1,Covered
+H350,T013,General Physician,B,84.6,112,61,1,Covered
+H450,T018,General Physician,B,84.44,110,61,1,Covered
+H277,T001,Neurologist,A,84.33,128,63,1,Covered
+H246,T006,Pulmonologist,B,84.31,0,0,0,Uncovered
+H449,T001,Pulmonologist,C,83.72,80,37,1,Covered
+H103,T016,Pain Specialist,A,83.46,167,84,1,Covered
+H323,T012,Orthopedist,B,83.43,100,51,1,Covered
+H344,T018,Rheumatologist,C,83.37,72,40,1,Covered
+H411,T002,Rheumatologist,A,83.18,138,82,1,Covered
+H164,T010,General Physician,A,83.07,140,80,1,Covered
+H053,T015,Rheumatologist,B,82.35,0,0,0,Uncovered
+H108,T004,Allergist,B,82.22,149,81,1,Covered
+H431,T003,General Physician,A,82.21,161,87,1,Covered
+H169,T018,Pain Specialist,B,82.09,117,63,1,Covered
+H015,T013,Pain Specialist,A,81.9,180,98,1,Covered
+H240,T010,Pulmonologist,B,81.7,86,44,1,Covered
+H121,T005,Orthopedist,B,81.54,154,71,1,Covered
+H086,T002,Neurologist,A,81.37,141,81,1,Covered
+H307,T007,General Physician,C,81.09,85,46,1,Covered
+H241,T018,Orthopedist,A,81.03,186,102,1,Covered
+H145,T001,Rheumatologist,A,81.02,140,80,1,Covered
+H437,T003,Orthopedist,B,80.9,114,70,1,Covered
+H276,T002,Allergist,C,80.64,62,31,1,Covered
+H274,T004,Psychiatrist,A,80.38,194,103,1,Covered
+H298,T013,Orthopedist,A,80.26,209,120,1,Covered
+H061,T006,Psychiatrist,C,80.2,85,41,1,Covered
+H081,T018,Rheumatologist,C,80.11,0,0,0,Uncovered
+H118,T005,General Physician,B,80.09,141,75,1,Covered
+H076,T003,Orthopedist,B,80.0,112,57,1,Covered
+H256,T016,Psychiatrist,B,79.68,142,78,1,Covered
+H490,T017,Orthopedist,A,79.59,218,128,1,Covered
+H060,T002,General Physician,C,79.5,76,38,1,Covered
+H400,T009,Pulmonologist,A,79.36,194,105,1,Covered
+H395,T013,Pulmonologist,B,79.3,95,48,1,Covered
+H432,T009,General Physician,C,79.24,0,0,0,Uncovered
+H373,T017,General Physician,B,78.79,173,105,1,Covered
+H209,T011,Neurologist,B,78.36,105,65,1,Covered
+H389,T019,Psychiatrist,B,78.26,125,64,1,Covered
+H264,T010,General Physician,B,78.23,85,51,1,Covered
+H228,T007,Allergist,B,77.94,96,60,1,Covered
+H352,T006,Rheumatologist,C,77.78,0,0,0,Uncovered
+H319,T004,Rheumatologist,C,77.76,88,45,1,Covered
+H050,T016,Psychiatrist,A,77.66,176,98,1,Covered
+H155,T019,Allergist,C,77.55,0,0,0,Uncovered
+H331,T002,General Physician,B,77.53,80,47,1,Covered
+H341,T019,General Physician,C,77.24,83,52,1,Covered
+H383,T007,Pulmonologist,C,76.87,52,26,1,Covered
+H439,T014,General Physician,A,76.75,369,205,1,Covered
+H300,T005,General Physician,B,76.67,140,70,1,Covered
+H049,T001,General Physician,A,76.66,126,77,1,Covered
+H047,T015,Pain Specialist,B,76.41,167,88,1,Covered
+H287,T008,Allergist,A,76.24,181,104,1,Covered
+H379,T009,Rheumatologist,A,75.92,173,102,1,Covered
+H324,T001,Allergist,B,75.67,70,41,1,Covered
+H272,T010,Pulmonologist,B,75.55,74,45,1,Covered
+H346,T002,Allergist,B,75.48,70,37,1,Covered
+H475,T020,Allergist,B,75.43,171,86,1,Covered
+H006,T001,Pulmonologist,C,75.06,71,38,1,Covered
+H137,T007,General Physician,C,75.02,63,45,1,Covered
+H390,T011,General Physician,A,74.94,157,93,1,Covered
+H013,T006,Pulmonologist,B,74.9,130,68,1,Covered
+H028,T015,Pulmonologist,B,74.78,181,90,1,Covered
+H426,T002,Psychiatrist,C,74.75,55,32,1,Covered
+H146,T011,General Physician,B,74.53,115,59,1,Covered
+H500,T017,Allergist,A,74.2,0,0,0,Uncovered
+H244,T013,Pulmonologist,B,74.14,105,60,1,Covered
+H485,T019,General Physician,C,73.71,80,32,1,Covered
+H370,T015,General Physician,B,73.44,155,93,1,Covered
+H211,T004,General Physician,C,73.43,96,51,1,Covered
+H412,T013,General Physician,A,73.39,0,0,0,Uncovered
+H489,T019,Allergist,C,73.35,0,0,0,Uncovered
+H283,T010,Allergist,C,73.22,60,34,1,Covered
+H237,T011,Rheumatologist,B,73.21,90,55,1,Covered
+H468,T012,Neurologist,B,73.14,0,0,0,Uncovered
+H452,T020,General Physician,C,73.06,125,61,1,Covered
+H497,T011,Neurologist,A,72.95,164,76,1,Covered
+H314,T013,General Physician,C,72.73,0,0,0,Uncovered
+H460,T012,Orthopedist,A,72.73,139,78,1,Covered
+H409,T012,Allergist,B,72.72,0,0,0,Uncovered
+H462,T018,Pain Specialist,B,72.62,99,58,1,Covered
+H302,T014,Allergist,B,72.55,243,127,1,Covered
+H048,T004,Pulmonologist,B,72.45,129,67,1,Covered
+H026,T004,Pulmonologist,A,72.27,186,104,1,Covered
+H094,T004,General Physician,C,72.25,95,61,1,Covered
+H079,T006,Rheumatologist,C,72.1,74,34,1,Covered
+H193,T006,Pulmonologist,A,72.02,164,88,1,Covered
+H115,T007,General Physician,B,71.99,100,53,1,Covered
+H099,T006,General Physician,C,71.84,76,39,1,Covered
+H368,T008,Pulmonologist,A,71.77,170,91,1,Covered
+H168,T018,General Physician,C,71.43,58,29,1,Covered
+H473,T011,Allergist,C,71.37,76,49,1,Covered
+H227,T006,Orthopedist,C,71.34,0,0,0,Uncovered
+H402,T010,Orthopedist,C,70.97,0,0,0,Uncovered
+H492,T001,Allergist,A,70.91,121,66,1,Covered
+H406,T003,General Physician,C,70.68,0,0,0,Uncovered
+H046,T020,General Physician,B,70.58,134,75,1,Covered
+H394,T006,Allergist,A,70.48,161,82,1,Covered
+H397,T016,Pulmonologist,B,70.28,0,0,0,Uncovered
+H326,T012,Psychiatrist,A,70.08,133,79,1,Covered
+H315,T009,Psychiatrist,A,70.07,145,69,1,Covered
+H179,T003,General Physician,A,69.62,127,77,1,Covered
+H073,T010,Neurologist,B,69.21,59,36,1,Covered
+H369,T007,Pulmonologist,A,69.16,126,69,1,Covered
+H309,T001,Rheumatologist,B,69.04,84,43,1,Covered
+H023,T006,Orthopedist,B,69.03,108,58,1,Covered
+H296,T005,General Physician,A,69.02,210,112,1,Covered
+H161,T005,Allergist,A,68.96,192,112,1,Covered
+H202,T005,Pulmonologist,C,68.72,102,68,1,Covered
+H477,T013,Rheumatologist,B,68.5,93,47,1,Covered
+H318,T009,Neurologist,B,68.32,121,64,1,Covered
+H184,T013,Pulmonologist,B,68.3,0,0,0,Uncovered
+H267,T001,Rheumatologist,B,68.26,80,50,1,Covered
+H005,T011,Orthopedist,B,68.24,100,49,1,Covered
+H224,T020,Psychiatrist,A,68.18,239,140,1,Covered
+H089,T019,Psychiatrist,B,68.05,0,0,0,Uncovered
+H481,T013,Pulmonologist,B,68.03,106,59,1,Covered
+H165,T010,Pulmonologist,B,67.89,89,51,1,Covered
+H126,T005,Pain Specialist,C,67.86,108,58,1,Covered
+H216,T004,General Physician,A,67.8,155,84,1,Covered
+H472,T007,Orthopedist,C,67.74,0,0,0,Uncovered
+H355,T016,Orthopedist,B,67.54,112,59,1,Covered
+H105,T001,Orthopedist,B,67.4,0,0,0,Uncovered
+H332,T012,Rheumatologist,C,67.2,0,0,0,Uncovered
+H187,T010,Pulmonologist,B,67.15,78,50,1,Covered
+H172,T007,Psychiatrist,C,66.82,59,28,1,Covered
+H310,T003,Rheumatologist,C,66.79,66,31,1,Covered
+H403,T008,General Physician,A,66.78,140,67,1,Covered
+H093,T016,Orthopedist,A,66.76,151,88,1,Covered
+H447,T001,Neurologist,C,66.55,0,0,0,Uncovered
+H442,T007,General Physician,A,66.47,0,0,0,Uncovered
+H381,T006,General Physician,C,66.44,69,41,1,Covered
+H230,T006,General Physician,A,66.38,157,88,1,Covered
+H391,T012,Psychiatrist,B,66.21,0,0,0,Uncovered
+H072,T009,Pain Specialist,A,66.14,142,81,1,Covered
+H408,T015,Pulmonologist,B,66.11,151,88,1,Covered
+H038,T005,General Physician,C,66.11,102,53,1,Covered
+H109,T003,Pain Specialist,A,65.85,126,80,1,Covered
+H071,T015,Allergist,B,65.61,152,87,1,Covered
+H257,T018,Neurologist,C,65.49,0,0,0,Uncovered
+H465,T019,General Physician,B,65.44,0,0,0,Uncovered
+H454,T010,Orthopedist,C,65.35,0,0,0,Uncovered
+H139,T012,Psychiatrist,B,65.19,93,48,1,Covered
+H493,T007,Rheumatologist,C,65.13,68,35,1,Covered
+H378,T018,Orthopedist,A,65.12,130,74,1,Covered
+H185,T001,General Physician,B,64.72,71,40,1,Covered
+H377,T002,General Physician,A,64.2,111,64,1,Covered
+H303,T010,General Physician,A,64.03,105,60,1,Covered
+H325,T007,Pain Specialist,C,64.01,0,0,0,Uncovered
+H467,T008,Pulmonologist,B,63.57,94,46,1,Covered
+H281,T014,General Physician,C,63.56,0,0,0,Uncovered
+H002,T016,Pain Specialist,B,63.23,0,0,0,Uncovered
+H305,T008,Pulmonologist,C,63.0,68,35,1,Covered
+H107,T008,Neurologist,C,62.75,65,31,1,Covered
+H348,T001,General Physician,A,62.73,104,66,1,Covered
+H297,T010,Pulmonologist,B,62.59,59,35,1,Covered
+H285,T016,Pain Specialist,B,62.51,76,47,1,Covered
+H410,T002,Pain Specialist,C,62.48,52,35,1,Covered
+H152,T004,Allergist,B,62.41,100,52,1,Covered
+H052,T014,Allergist,B,62.35,215,113,1,Covered
+H358,T013,Neurologist,B,62.34,91,53,1,Covered
+H011,T020,Pulmonologist,A,62.32,206,106,1,Covered
+H106,T009,General Physician,B,62.26,92,56,1,Covered
+H205,T018,General Physician,C,62.2,56,30,1,Covered
+H284,T006,Allergist,C,62.12,46,29,1,Covered
+H491,T001,Neurologist,A,62.01,108,62,1,Covered
+H329,T012,General Physician,B,61.94,63,31,1,Covered
+H144,T004,Rheumatologist,B,61.63,101,57,1,Covered
+H066,T009,Rheumatologist,B,61.34,83,55,1,Covered
+H421,T016,General Physician,C,61.14,0,0,0,Uncovered
+H253,T016,General Physician,B,61.02,0,0,0,Uncovered
+H141,T002,Orthopedist,A,60.83,0,0,0,Uncovered
+H495,T020,Allergist,B,60.7,152,85,1,Covered
+H290,T019,Allergist,C,60.59,73,49,1,Covered
+H261,T011,Rheumatologist,B,60.52,70,49,1,Covered
+H234,T013,Psychiatrist,B,60.49,78,48,1,Covered
+H186,T003,Neurologist,C,60.43,53,26,1,Covered
+H063,T014,Orthopedist,C,60.24,0,0,0,Uncovered
+H252,T009,Rheumatologist,A,60.14,145,82,1,Covered
+H085,T004,Pain Specialist,C,60.05,67,37,1,Covered
+H236,T002,Pulmonologist,C,60.01,49,30,1,Covered
+H022,T013,General Physician,C,59.94,58,34,1,Covered
+H494,T016,Psychiatrist,C,59.84,81,44,1,Covered
+H177,T012,Psychiatrist,C,59.75,55,27,1,Covered
+H435,T001,Rheumatologist,B,59.75,57,30,1,Covered
+H087,T006,Orthopedist,C,59.7,60,33,1,Covered
+H245,T007,General Physician,C,59.69,58,30,1,Covered
+H480,T016,Pulmonologist,B,59.68,100,58,1,Covered
+H226,T017,Psychiatrist,C,59.66,90,48,1,Covered
+H129,T003,Psychiatrist,C,59.66,47,25,1,Covered
+H104,T017,Pulmonologist,B,59.44,120,63,1,Covered
+H392,T008,General Physician,C,59.29,54,36,1,Covered
+H361,T014,Pulmonologist,C,59.24,142,87,1,Covered
+H233,T019,Psychiatrist,B,59.19,97,55,1,Covered
+H459,T008,Orthopedist,B,58.97,97,52,1,Covered
+H148,T001,Allergist,C,58.76,51,29,1,Covered
+H455,T020,Pain Specialist,C,58.73,79,46,1,Covered
+H478,T010,Psychiatrist,B,58.64,64,37,1,Covered
+H134,T015,General Physician,C,58.54,88,49,1,Covered
+H306,T005,Pain Specialist,B,58.29,0,0,0,Uncovered
+H215,T012,General Physician,C,58.28,43,23,1,Covered
+H294,T004,General Physician,C,58.0,59,32,1,Covered
+H020,T018,Neurologist,C,57.93,62,31,1,Covered
+H417,T002,General Physician,C,57.86,41,23,1,Covered
+H269,T016,Pain Specialist,C,57.19,62,37,1,Covered
+H292,T013,Pain Specialist,C,57.1,54,24,1,Covered
+H102,T008,General Physician,C,57.08,71,40,1,Covered
+H182,T001,Allergist,C,57.05,41,21,1,Covered
+H451,T010,Orthopedist,B,56.95,53,29,1,Covered
+H282,T020,Pulmonologist,C,56.86,78,38,1,Covered
+H078,T012,General Physician,C,56.73,55,27,1,Covered
+H268,T001,Psychiatrist,A,56.66,95,62,1,Covered
+H380,T017,Psychiatrist,C,56.61,83,47,1,Covered
+H206,T012,Rheumatologist,B,56.22,64,36,1,Covered
+H353,T017,Neurologist,B,56.2,113,65,1,Covered
+H075,T001,Rheumatologist,C,55.96,47,22,1,Covered
+H476,T020,General Physician,C,55.86,0,0,0,Uncovered
+H433,T001,Pain Specialist,C,55.82,46,21,1,Covered
+H124,T009,Neurologist,C,55.79,66,36,1,Covered
+H018,T009,Psychiatrist,C,55.76,83,50,1,Covered
+H275,T012,Neurologist,C,55.56,62,29,1,Covered
+H372,T019,General Physician,C,55.43,68,33,1,Covered
+H362,T016,Rheumatologist,B,55.41,86,54,1,Covered
+H441,T019,General Physician,C,55.38,72,41,1,Covered
+H181,T011,Orthopedist,B,55.17,73,32,1,Covered
+H062,T006,General Physician,B,55.04,100,57,1,Covered
+H042,T010,Psychiatrist,C,55.02,35,24,1,Covered
+H055,T007,Pain Specialist,B,54.97,83,45,1,Covered
+H317,T009,Orthopedist,B,54.84,83,47,1,Covered
+H123,T011,Psychiatrist,C,54.81,52,35,1,Covered
+H289,T001,Rheumatologist,B,54.55,61,35,1,Covered
+H017,T003,Allergist,B,54.18,68,36,1,Covered
+H203,T020,Rheumatologist,B,54.1,112,63,1,Covered
+H208,T009,Pulmonologist,B,54.1,92,55,1,Covered
+H405,T007,Psychiatrist,C,53.61,48,26,1,Covered
+H239,T003,General Physician,B,53.42,78,36,1,Covered
+H427,T015,Psychiatrist,B,53.37,101,59,1,Covered
+H220,T007,Pain Specialist,C,53.32,0,0,0,Uncovered
+H032,T018,General Physician,B,53.07,75,44,1,Covered
+H201,T005,Psychiatrist,B,52.96,120,57,1,Covered
+H041,T005,General Physician,B,52.88,119,67,1,Covered
+H159,T019,Rheumatologist,C,52.68,66,40,1,Covered
+H100,T003,Pain Specialist,C,52.55,38,16,1,Covered
+H313,T017,Allergist,A,52.54,189,94,1,Covered
+H218,T019,General Physician,C,52.46,79,42,1,Covered
+H083,T008,General Physician,B,52.31,73,40,1,Covered
+H025,T010,Pain Specialist,C,52.25,39,23,1,Covered
+H027,T020,Pain Specialist,C,52.2,75,45,1,Covered
+H445,T004,Psychiatrist,C,52.04,0,0,0,Uncovered
+H074,T008,Rheumatologist,A,51.99,118,63,1,Covered
+H393,T006,General Physician,A,51.87,100,49,1,Covered
+H333,T001,Orthopedist,C,51.59,44,27,1,Covered
+H414,T016,Allergist,C,51.55,49,22,1,Covered
+H119,T009,General Physician,C,51.47,0,0,0,Uncovered
+H214,T001,Pulmonologist,B,51.44,63,35,1,Covered
+H453,T002,Psychiatrist,C,51.22,41,20,1,Covered
+H149,T010,Orthopedist,C,51.16,39,20,1,Covered
+H198,T010,Rheumatologist,A,50.96,86,58,1,Covered
+H029,T019,Psychiatrist,C,50.88,71,36,1,Covered
+H051,T013,Pulmonologist,C,50.79,0,0,0,Uncovered
+H030,T018,Psychiatrist,C,50.73,41,18,1,Covered
+H213,T005,General Physician,C,50.58,74,37,1,Covered
+H382,T018,Allergist,B,50.54,73,43,1,Covered
+H059,T006,Pain Specialist,B,50.53,87,45,1,Covered
+H131,T020,General Physician,C,50.51,76,49,1,Covered
+H423,T020,Rheumatologist,C,50.37,79,47,1,Covered
+H413,T002,Orthopedist,B,50.1,0,0,0,Uncovered
+H166,T005,Rheumatologist,C,50.05,0,0,0,Uncovered
+H043,T003,General Physician,B,49.96,48,30,1,Covered
+H328,T017,Pulmonologist,C,49.94,69,36,1,Covered
+H117,T019,Orthopedist,C,49.89,0,0,0,Uncovered
+H132,T005,Rheumatologist,C,49.84,75,42,1,Covered
+H456,T010,Psychiatrist,B,49.77,50,25,1,Covered
+H021,T005,Psychiatrist,C,49.65,57,28,1,Covered
+H385,T018,General Physician,C,49.62,48,22,1,Covered
+H135,T005,Psychiatrist,C,49.55,0,0,0,Uncovered
+H191,T013,General Physician,C,49.51,47,26,1,Covered
+H365,T015,Orthopedist,C,49.5,0,0,0,Uncovered
+H084,T015,General Physician,C,49.0,74,38,1,Covered
+H147,T013,Rheumatologist,C,48.73,39,18,1,Covered
+H438,T012,Psychiatrist,C,48.6,0,0,0,Uncovered
+H339,T008,Pain Specialist,C,48.51,54,26,1,Covered
+H088,T003,Pulmonologist,B,48.43,47,27,1,Covered
+H057,T017,Pain Specialist,C,48.41,74,40,1,Covered
+H120,T006,General Physician,C,48.22,50,26,1,Covered
+H192,T005,Allergist,B,48.2,0,0,0,Uncovered
+H375,T015,Orthopedist,C,48.2,83,55,1,Covered
+H091,T012,Pulmonologist,C,48.0,43,25,1,Covered
+H486,T014,Pain Specialist,C,47.87,0,0,0,Uncovered
+H301,T019,Psychiatrist,C,47.82,51,32,1,Covered
+H340,T010,General Physician,C,47.81,36,21,1,Covered
+H461,T011,Neurologist,B,47.81,63,37,1,Covered
+H176,T015,Pain Specialist,A,47.56,166,91,1,Covered
+H188,T013,Psychiatrist,B,47.48,73,37,1,Covered
+H009,T002,Allergist,B,47.19,55,26,1,Covered
+H190,T004,General Physician,C,47.15,55,37,1,Covered
+H371,T007,Neurologist,B,47.03,66,43,1,Covered
+H259,T007,General Physician,C,46.99,40,22,1,Covered
+H195,T012,Rheumatologist,C,46.89,38,20,1,Covered
+H127,T018,Orthopedist,C,46.85,0,0,0,Uncovered
+H420,T007,Pulmonologist,B,46.82,55,30,1,Covered
+H407,T003,Rheumatologist,B,46.72,48,27,1,Covered
+H425,T007,Pulmonologist,C,46.71,58,29,1,Covered
+H471,T008,General Physician,C,46.63,61,36,1,Covered
+H336,T011,Orthopedist,C,46.51,40,22,1,Covered
+H376,T015,Orthopedist,C,46.33,77,46,1,Covered
+H200,T007,Pulmonologist,C,46.23,0,0,0,Uncovered
+H157,T007,Pulmonologist,C,46.16,46,29,1,Covered
+H012,T016,Allergist,C,45.96,0,0,0,Uncovered
+H174,T018,Psychiatrist,C,45.95,50,33,1,Covered
+H347,T002,General Physician,C,45.92,24,9,1,Covered
+H469,T005,General Physician,B,45.88,97,51,1,Covered
+H415,T013,Orthopedist,B,45.7,60,34,1,Covered
+H434,T009,Orthopedist,C,45.46,45,24,1,Covered
+H384,T001,General Physician,C,45.12,0,0,0,Uncovered
+H254,T012,Neurologist,C,45.02,43,29,1,Covered
+H354,T001,Neurologist,B,44.85,49,27,1,Covered
+H122,T001,Allergist,C,44.78,0,0,0,Uncovered
+H039,T017,Rheumatologist,C,44.69,62,38,1,Covered
+H250,T018,General Physician,A,44.61,96,51,1,Covered
+H162,T012,Psychiatrist,C,44.56,24,14,1,Covered
+H142,T017,Rheumatologist,C,44.51,63,35,1,Covered
+H335,T019,Psychiatrist,B,44.45,71,35,1,Covered
+H098,T018,General Physician,C,44.3,50,26,1,Covered
+H077,T001,Rheumatologist,A,44.11,66,42,1,Covered
+H160,T018,Neurologist,C,43.93,46,24,1,Covered
+H045,T002,Allergist,B,43.62,36,21,1,Covered
+H293,T008,Psychiatrist,B,43.47,61,30,1,Covered
+H247,T016,Orthopedist,C,43.43,44,25,1,Covered
+H219,T018,Pulmonologist,C,43.42,41,30,1,Covered
+H496,T003,Orthopedist,C,43.4,35,22,1,Covered
+H349,T002,Psychiatrist,C,43.3,24,14,1,Covered
+H065,T018,Rheumatologist,C,43.18,37,21,1,Covered
+H163,T016,Psychiatrist,C,43.01,56,34,1,Covered
+H070,T010,General Physician,B,42.97,0,0,0,Uncovered
+H308,T015,Pain Specialist,C,42.81,92,52,1,Covered
+H035,T001,Pulmonologist,B,42.61,0,0,0,Uncovered
+H443,T006,Neurologist,C,42.33,43,26,1,Covered
+H304,T011,General Physician,C,42.13,46,31,1,Covered
+H330,T003,Allergist,C,41.84,37,14,1,Covered
+H359,T012,Orthopedist,C,41.61,0,0,0,Uncovered
+H429,T008,Rheumatologist,C,41.31,42,27,1,Covered
+H110,T007,Psychiatrist,B,41.04,64,28,1,Covered
+H016,T008,Rheumatologist,B,40.99,62,38,1,Covered
+H398,T016,Pain Specialist,B,40.58,65,33,1,Covered
+H271,T003,Orthopedist,C,40.48,0,0,0,Uncovered
+H090,T016,Orthopedist,B,39.55,56,26,1,Covered
+H067,T003,Rheumatologist,C,39.53,40,23,1,Covered
+H258,T007,Psychiatrist,C,39.5,40,22,1,Covered
+H488,T008,Allergist,C,39.06,54,30,1,Covered
+H143,T006,General Physician,C,39.03,30,18,1,Covered
+H457,T012,General Physician,C,38.42,34,16,1,Covered
+H069,T015,Rheumatologist,C,38.31,58,28,1,Covered
+H270,T007,Psychiatrist,C,38.28,39,22,1,Covered
+H125,T001,Pulmonologist,C,37.97,31,19,1,Covered
+H448,T020,Allergist,C,37.97,0,0,0,Uncovered
+H036,T006,Psychiatrist,C,37.53,0,0,0,Uncovered
+H031,T011,Pulmonologist,C,37.36,33,13,1,Covered
+H337,T007,Pulmonologist,C,37.1,0,0,0,Uncovered
+H037,T007,Neurologist,C,37.07,25,15,1,Covered
+H424,T015,Allergist,C,36.9,61,34,1,Covered
+H386,T002,General Physician,C,36.55,0,0,0,Uncovered
+H128,T005,Psychiatrist,C,36.4,0,0,0,Uncovered
+H019,T001,General Physician,B,36.33,44,22,1,Covered
+H360,T018,Orthopedist,B,36.3,47,28,1,Covered
+H299,T012,General Physician,C,35.87,41,21,1,Covered
+H428,T010,Neurologist,C,35.61,0,0,0,Uncovered
+H404,T018,Psychiatrist,C,35.42,0,0,0,Uncovered
+H327,T009,Orthopedist,C,35.27,41,22,1,Covered
+H248,T016,Pulmonologist,C,34.89,0,0,0,Uncovered
+H288,T002,Pulmonologist,C,34.69,19,7,1,Covered
+H194,T014,Allergist,C,34.07,98,47,1,Covered
+H171,T007,Orthopedist,A,34.03,75,40,1,Covered
+H130,T009,Pulmonologist,C,33.83,27,12,1,Covered
+H092,T018,Allergist,C,33.73,37,23,1,Covered
+H498,T007,General Physician,C,33.4,31,17,1,Covered
+H280,T012,Psychiatrist,B,33.31,42,22,1,Covered
+H151,T012,General Physician,C,33.09,0,0,0,Uncovered
+H430,T018,Allergist,C,32.84,21,16,1,Covered
+H014,T002,General Physician,C,32.57,28,13,1,Covered
+H222,T019,Allergist,C,32.51,35,23,1,Covered
+H003,T004,General Physician,C,32.21,34,21,1,Covered
+H483,T018,Neurologist,C,31.88,16,8,1,Covered
+H068,T013,Psychiatrist,C,31.73,0,0,0,Uncovered
+H343,T019,Rheumatologist,C,31.56,30,20,1,Covered
+H338,T012,Pain Specialist,B,31.4,50,27,1,Covered
+H249,T018,Rheumatologist,C,31.19,0,0,0,Uncovered
+H225,T019,Allergist,C,31.16,51,24,1,Covered
+H464,T005,General Physician,C,30.78,33,13,1,Covered
+H097,T016,Rheumatologist,C,30.34,40,22,1,Covered
+H004,T010,General Physician,C,30.14,16,12,1,Covered
+H113,T010,Psychiatrist,C,30.14,0,0,0,Uncovered
+H364,T004,General Physician,A,30.0,72,44,1,Covered
+H150,T004,Pain Specialist,B,29.44,48,28,1,Covered
+H175,T018,Rheumatologist,C,28.94,29,17,1,Covered
+H363,T005,Neurologist,C,28.94,33,15,1,Covered
+H080,T009,Orthopedist,C,28.23,30,13,1,Covered
+H153,T013,Orthopedist,C,28.23,30,15,1,Covered
+H286,T005,Orthopedist,C,27.96,42,24,1,Covered
+H396,T015,Rheumatologist,C,27.42,0,0,0,Uncovered
+H140,T010,General Physician,C,26.39,0,0,0,Uncovered
+H114,T013,General Physician,B,26.25,41,22,1,Covered
+H221,T001,General Physician,C,25.75,12,6,1,Covered
+H173,T014,General Physician,C,25.4,61,33,1,Covered
+H056,T003,General Physician,C,25.34,0,0,0,Uncovered
+H197,T012,Allergist,C,25.31,20,14,1,Covered
+H033,T002,Rheumatologist,C,24.75,22,13,1,Covered
+H311,T001,Pain Specialist,C,24.47,26,12,1,Covered
+H231,T004,Rheumatologist,C,24.41,0,0,0,Uncovered
+H446,T019,Pain Specialist,C,24.11,0,0,0,Uncovered
+H183,T002,General Physician,C,23.38,0,0,0,Uncovered
+H170,T012,General Physician,C,23.27,20,11,1,Covered
+H436,T003,Pulmonologist,C,21.86,16,8,1,Covered
+H008,T004,Allergist,C,21.73,0,0,0,Uncovered
+H387,T006,Psychiatrist,B,21.36,28,10,1,Covered
+H401,T002,General Physician,C,20.93,22,12,1,Covered
+H001,T008,Pulmonologist,C,19.53,17,12,1,Covered
+H180,T018,Rheumatologist,B,18.36,35,20,1,Covered
+H312,T001,General Physician,C,18.31,12,6,1,Covered
+H356,T005,General Physician,C,18.17,30,19,1,Covered
+H111,T019,Orthopedist,C,16.95,27,19,1,Covered
+H487,T011,General Physician,C,11.81,11,9,1,Covered
+H416,T002,Psychiatrist,C,10.0,7,4,1,Covered
+H419,T007,Neurologist,C,10.0,10,7,1,Covered

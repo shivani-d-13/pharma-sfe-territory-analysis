@@ -1,0 +1,47 @@
+# Python
+
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+.venv/
+venv/
+env/
+ENV/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Python tooling
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# IDE / Editor
+.vscode/
+.idea/
+
+# Environment / Secrets
+.env
+.env.*
+!.env.example
+
+# Temporary files
+*.tmp
+*.temp
+*.log
+
+# DuckDB generated database
+*.duckdb
+*.duckdb.wal
+
+# Tableau temporary / lock files
+*.twb~ 
+*.twbx~ 
+*.tfl
+*.tflx
