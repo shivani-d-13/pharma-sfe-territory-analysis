@@ -10,7 +10,7 @@ The project combines an observed pharmaceutical sales dataset with a transparent
 
 Explore the interactive dashboards on Tableau Public:
 
-**[View the Interactive Tableau Dashboard](YOUR_TABLEAU_PUBLIC_LINK)**
+**[View the Interactive Tableau Dashboard](https://public.tableau.com/views/Pharmacy-Sales-Force-Effectiveness-and-Territory-Analysis/TerritoryPerformanceOpportunity2?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)**
 
 The workbook contains three dashboards:
 
